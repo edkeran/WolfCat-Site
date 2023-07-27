@@ -32,7 +32,7 @@
 
 .topbar-icon > img{
     border-radius: 100%;
-    background:  url('/assets/stars-bg.png'),linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+    background:  url('../../assets/stars-bg.png'),linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
     background-blend-mode: overlay;
     background-size: cover;
     transition: 0.3s ease-in-out;
