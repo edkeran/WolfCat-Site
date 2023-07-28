@@ -10,8 +10,7 @@ export class AppComponent implements OnInit {
     this.initParticles();
   }
   
-  title = 'wolfcat_studios';
-
+  title = 'Wolfcat Studios';
   
   initParticles() {
     (window as any).particlesJS("particles-js", {

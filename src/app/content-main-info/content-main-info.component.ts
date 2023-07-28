@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input } from '@angular/core';
 
 @Component({
   selector: 'app-content-main-info',
@@ -6,5 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./content-main-info.component.css']
 })
 export class ContentMainInfoComponent {
-
+  qualityMarkImg:string = './assets/qualityMark.svg';
+  @Input() titulo:string = '';
+  
 }
