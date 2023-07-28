@@ -7,6 +7,6 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TopbarComponent {
     imagen:string = './assets/logoCompanie.svg';
-    ancho:Number = 150;
-    alto:Number = 150;
+    ancho:Number = 130;
+    alto:Number = 130;
 }

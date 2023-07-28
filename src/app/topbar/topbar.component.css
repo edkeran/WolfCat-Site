@@ -57,10 +57,9 @@
     transition: 0.3s ease-in-out;
 }
 
-
 .icon-top > a{
     color: white;
-    font-size: 60px;
+    font-size: 5vh;
     display: block;
 }
 
@@ -74,4 +73,17 @@
 
 .topbar-itch:hover{
     background-color: orange;
+}
+
+@media (max-width:500px){
+    .icon-top > a{
+        font-size: 5vh;
+    }
+}
+
+@media (max-height:800px) {
+    .main-logo{
+        width: 10vh!important;
+        height: 10vh!important;
+    }
 }

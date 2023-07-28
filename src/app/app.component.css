@@ -5,3 +5,15 @@
     top: 0;
     z-index: -1;
 }
+
+.app-content{
+    background-image: url('../assets/MoonCat.svg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 10%; /* Puedes ajustar este valor para cambiar el tamaño de la imagen */
+    min-height: 70vh;
+}
+
+.top-bar-header{
+    max-height: 30vh;
+}
