@@ -3,17 +3,19 @@
         <h2>{{titulo}}</h2>
     </div>
     <div class="container-content">
-        <div class="info-content info-right">
-            <div class="header-card-content">
-                <img src={{qualityMarkImg}} alt="Quality Mark" title="Quality Mark" class="header-card-img">
-                <h3><b>Pasión por los videojuegos:</b></h3>
-            </div>
-        </div>
-        <div class="info-content info-left">
-            <div class="header-card-content">
-                <img src={{qualityMarkImg}} alt="Quality Mark" title="Quality Mark" class="header-card-img">
-                <h3><b>Recreaciones de juegos antiguos:</b></h3>
-            </div>
-        </div>
+        <app-card-content-info 
+            [subtitle]="'Pasión por los videojuegos:'"
+            [cardContentText]="'Somos amantes del gran arte que respresentan los videojuegos en la actualidad no solo porque son un escape de nuestra realidad' +
+                ' sino que tambien nos adentran en universos e historias fantasticas las cuales entretienen e incentivan la imaginacion de los jugadores, aca en'
+                + ' wolfcat studios buscamos entretener y brindar nuevas historias con las cuales fascinar a los apasionados por los videojuegos.'" 
+            class="info-content">
+        </app-card-content-info>
+        <app-card-content-info 
+            class="info-content" 
+            [subtitle]="'Recreaciones de juegos antiguos:'"
+            [cardContentText]="'Realizo recreaciones de juegos famosos empleando el motor de videojuegos Godot, puesto que es importante divulgar ' + 
+                'como seria en principio el proceso por el que pasan para la creacion de estos, destacando que es un proceso extenso y arduo que representa' +
+                'el cariño y esmero que tienen todas las personas involucradas en estos magnificos proyectos.'" 
+            ></app-card-content-info>
     </div>
 </section>

@@ -18,6 +18,25 @@ h1{
     font-size: 4vh;
 }
 
+/*Contenedor FLEX-BOX para alinear los items horizontalmente*/
+.container-content{
+    display: flex;
+    margin: 0 10%;
+    flex-wrap: wrap;
+}
+
+@media(max-width:996px) {
+    .container-content{
+        display: block;
+    }
+}
+
+
+/*Ocupar todo el espacio disponbile del contenedor FLEX-BOX*/
+.info-content{
+    flex: 1;
+}
+
 @media(max-width:530px)  {
     h1{
         font-size: 1em;

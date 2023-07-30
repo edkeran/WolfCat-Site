@@ -1,0 +1,16 @@
+.info-center{
+    text-align: center;
+}
+
+.header-card-img{
+    height: 5vh;
+}
+
+.header-card-content{
+    text-align: center!important;
+}
+
+.card-content{
+    margin: 2% 15%;
+    text-align: justify;
+}
