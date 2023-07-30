@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="36mm"
+   height="37mm"
+   viewBox="0 0 36 37"
+   version="1.1"
+   id="svg320"
+   inkscape:export-filename="bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="qualityMark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview322"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1089995"
+     inkscape:cx="192.9825"
+     inkscape:cy="96.728328"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs317">
+    <clipPath
+       id="clipPath920"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         d="M 159.04777,3.2803818 A 96.255753,96.003754 0 0 1 255.26151,99.321406 96.255753,96.003754 0 0 1 158.97301,195.28787 96.255753,96.003754 0 0 1 62.750019,99.256063 96.255753,96.003754 0 0 1 159.02928,3.2803755"
+         sodipodi:arc-type="arc"
+         sodipodi:open="true"
+         sodipodi:end="4.7126333"
+         sodipodi:start="4.7128253"
+         sodipodi:ry="96.003754"
+         sodipodi:rx="96.255753"
+         sodipodi:cy="99.284126"
+         sodipodi:cx="159.00577"
+         sodipodi:type="arc"
+         id="path922"
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#03a9fb;fill-opacity:1;fill-rule:evenodd;stroke:#fdeb3c;stroke-width:0.273534;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       transform="matrix(1.0727893,0,0,1.1020256,-153.39975,-12.144219)"
+       clip-path="url(#clipPath920)"
+       d="m 159.90041,11.911325 -1.95347,3.181902 a 12.68055,12.68055 0 0 0 -0.88975,0.167792 l -3.15032,-2.274203 -0.48048,3.713769 a 12.68055,12.68055 0 0 0 -0.91513,0.592543 l 0.22476,-0.227236 -3.77692,-1.01853 0.89903,3.78497 a 12.68055,12.68055 0 0 0 -0.52939,0.731858 l -3.89147,0.314538 2.18938,3.362698 0.031,-0.06625 a 12.68055,12.68055 0 0 0 -0.29349,1.290344 l 0.009,-0.255716 -3.46981,1.805495 3.32431,2.247577 0.0136,-0.372739 a 12.68055,12.68055 0 0 0 0.29596,1.735527 l -0.22909,-0.576445 -2.44943,3.0494 3.93048,0.715756 a 12.68055,12.68055 0 0 0 0.75538,1.19066 l -0.37955,-0.412984 -1.19933,3.723054 3.94472,-0.738049 -0.26191,-0.284815 a 12.68055,12.68055 0 0 0 1.63461,1.178895 l -0.65323,-0.304013 0.31392,3.898899 3.36332,-2.188758 -0.50524,-0.234664 a 12.68055,12.68055 0 0 0 2.67728,0.591304 l -0.89346,0.01796 1.99744,3.363319 2.04882,-3.431427 a 12.68055,12.68055 0 0 0 1.97205,-0.440848 l -0.8625,0.371502 3.11751,2.362123 0.60678,-3.966387 -0.37769,0.16284 a 12.68055,12.68055 0 0 0 1.25319,-0.807393 l -0.0885,0.100925 3.82955,0.79625 -1.06496,-3.545974 a 12.68055,12.68055 0 0 0 0.92441,-1.427801 l -0.16284,0.4328 3.86423,-0.605547 -2.42095,-3.170756 a 12.68055,12.68055 0 0 0 0.1777,-0.946089 l 3.41719,-1.856883 -3.36456,-2.186897 -0.0105,0.605544 a 12.68055,12.68055 0 0 0 -2.56955,-6.211489 l 0.48109,0.425369 0.80925,-3.826454 -3.63884,1.078589 a 12.68055,12.68055 0 0 0 -0.99996,-0.686037 l 0.0644,0.02662 -0.49471,-3.879703 -3.22834,2.32126 a 12.68055,12.68055 0 0 0 -1.13122,-0.221662 z m 10.89982,8.873288 1.49529,3.76949 2.45191,-3.047542 z"
+       style="font-variation-settings:normal;vector-effect:none;fill:#acfcd9;fill-opacity:1;fill-rule:evenodd;stroke:#acfcd9;stroke-width:0.317013;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       id="path916" />
+  </g>
+</svg>
