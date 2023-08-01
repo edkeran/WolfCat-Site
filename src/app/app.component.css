@@ -26,3 +26,9 @@
         min-height: 75vh;
     }
 }
+
+@media(max-width:996px) {
+    .app-content{
+        background-position: 3vh center;
+    }
+}

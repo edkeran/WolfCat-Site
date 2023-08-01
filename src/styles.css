@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: rgb(84, 13, 223);
+    background-color: #4b0082;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -23,6 +23,7 @@ h1{
     display: flex;
     margin: 0 10%;
     flex-wrap: wrap;
+    color: #d1c5b2;
 }
 
 @media(max-width:996px) {
@@ -30,7 +31,6 @@ h1{
         display: block;
     }
 }
-
 
 /*Ocupar todo el espacio disponbile del contenedor FLEX-BOX*/
 .info-content{
